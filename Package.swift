@@ -16,5 +16,6 @@ let package = Package(
         .target(
             name: "TransitionButton"
         )
-    ]
+    ],
+    path: "Source"
 )
