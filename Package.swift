@@ -14,8 +14,8 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "TransitionButton"
+            name: "TransitionButton",
+            path: "Source"
         )
-    ],
-    path: "Source"
+    ]
 )
